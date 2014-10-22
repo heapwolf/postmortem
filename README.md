@@ -1,5 +1,5 @@
 # SYNOPSIS
-The goal of a postmortem is to draw meaningful conclusions to help you learn from your past successes and failures. Using a repositry where each event is an issue allows you to have converations and assign responsibility and status.
+The goal of a postmortem is to draw meaningful conclusions to help you learn from your past successes and failures. Using a repositry where each event is an issue allows you to have conversations, assign responsibility and set status.
 
 # REQUIREMENTS
 - Copy the template below into an issue.
@@ -12,19 +12,24 @@ The goal of a postmortem is to draw meaningful conclusions to help you learn fro
 
 ```markdown
 
-### WHAT
+# WHAT
+
 ...
 
-### WHEN
-MM-DD-YYYY
+# WHEN
 
-### WHY
+MM-DD-YYYY HH:MM
+
+# WHY
+
 ...
 
-### HOW
+# HOW
+
 ...
 
-### RESOLUTION (FINAL UPDATE)
+# RESOLUTION (FINAL UPDATE)
+
 ...
 
 ```
